@@ -55,6 +55,7 @@ public class Notificacion extends AppCompatActivity {
             }
         });
 //
+
         EditText editText = (EditText) findViewById(R.id.EditText);
         editText.addTextChangedListener(new TextWatcher() {
             @Override
