@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TareaNotificaciones</string>
+    <string name="programaci_n_multimedia">PROGRAMACIÓN MULTIMEDIA</string>
+    <string name="actividad_de_preferencias">ACTIVIDAD DE PREFERENCIAS</string>
+    <string name="definir_preferencias">Definir Preferencias</string>
+    <string name="recuperar_preferencias">Recuperar Preferencias</string>
+    <string name ="channel1"> NOTIFICACION </string>
+    <string name ="descripcion"> ESTO ES UNA NOTIFICACION</string>
+    <string name="hola">ESCRIBE ALGO</string>
+    <string-array name="sistemasoperativos">
+        <item> Windows </item>
+        <item> Linux </item>
+        <item> IOS </item>
+
+    </string-array>
+    <string-array name="codigosistema">
+        <item> Windows </item>
+        <item> Linux </item>
+        <item> IOS </item>
+
+    </string-array>
+</resources>
